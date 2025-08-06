@@ -1,86 +1,71 @@
-### Hi there, I'm Rushikesh Gaikhe 👋
-
-🎓 Recent graduate in **Information Technology**  
-💼 Aspiring **Data Scientist | Data Analyst | ML Engineer**  
-📍 Based in India | 🌐 Open to remote or hybrid opportunities
+<h1 align="center">Hi 👋, I'm Rushikesh Gaikhe</h1>
+<h3 align="center">Aspiring Data Scientist | Data Analyst | ML Engineer</h3>
 
 ---
 
-#### 🚀 About Me
-
-- 💡 Passionate about building real-world AI solutions that help people.
-- 📊 Experienced in Data Analysis, ML Modeling, Power BI Dashboards & Python Automation.
-- 🔍 Constantly improving my skills in **GenAI**, **MLOps**, and **Deep Learning**.
-- 🛠️ Love automating tasks and improving productivity through data & code.
-
----
-
-#### 🏆 GitHub Profile Trophy
-
-[![Trophy](https://github-profile-trophy.vercel.app/?username=rushikesh092002&theme=radical&no-frame=true&no-bg=true&margin-w=5&column=4)](https://github.com/rushikesh092002)
-
-> 🟊 Trophies show actual **stars, PRs, issues, contributions, and repositories** – no duplicates or fake data.
+- 🎓 B.E. in Information Technology  
+- 💼 Data Science & AI Intern at Intellipaat  
+- 🛠️ Skilled in Python, SQL, Power BI, Machine Learning, Deep Learning, and Generative AI  
+- 💬 Ask me about anything related to data science, analytics, ML or DL  
+- 📫 Mail me at **rushikeshgaikhe09@gmail.com**  
+- 🌐 Connect with me on [LinkedIn](https://www.linkedin.com/in/rushikesh-gaikhe/)
 
 ---
 
-#### 🔧 Technologies & Tools
+### 🔥 Projects
 
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
-![Power BI](https://img.shields.io/badge/-Power%20BI-F2C811?style=flat&logo=powerbi&logoColor=black)
-![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat&logo=pandas)
-![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat&logo=numpy)
-![Scikit Learn](https://img.shields.io/badge/-Scikit%20Learn-F7931E?style=flat&logo=scikitlearn)
-![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat&logo=tensorflow)
-![Flask](https://img.shields.io/badge/-Flask-000000?style=flat&logo=flask)
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
-![OpenCV](https://img.shields.io/badge/-OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white)
-![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat&logo=fastapi)
+#### 🧠 GenAI Job Mail Automation System
+> A powerful system that uses Generative AI to automatically:
+> - Extract job postings from job boards
+> - Analyze the job description
+> - Generate a custom email pitch based on your resume
+> - Automatically send the email to the HR contact in one click  
+> Built using **LLMs**, **BeautifulSoup**, **SMTP**, and **prompt engineering**.
 
----
+#### 📊 Bank Loan Approval & Risk Score Prediction
+> Built an end-to-end ML pipeline using CatBoost for classification & regression.  
+> Achieved **99.85% accuracy**, **96% R² score**, and integrated it into a **Flask web app** deployed on Azure via Docker.
 
-#### 💼 Highlight Projects
-
-- 🔹 **[GenAI Job Mail Automation](https://github.com/rushikesh092002)**  
-  → Built a GenAI-based system that:
-    - Automatically fetches job listings
-    - Analyzes job descriptions using LLMs
-    - Creates personalized email content
-    - Sends job emails to HR with **one click** 🚀  
-  → Tech: Python, LLMs, LangChain, Automation, Web Scraping, SMTP, Streamlit
-
-- 🔹 **Loan Approval & Risk Score Prediction**  
-  → Built a regression-classification ML pipeline for bank loans.  
-  → 99.85% Accuracy | 0.8 RMSE | CatBoost, Flask, Azure Deployment
-
-- 🔹 **Text Summarizer with GenAI**  
-  → FastAPI app using Pegasus model fine-tuned on SamSum dataset.  
-  → Deployed on Azure using Docker with REST API access.
-
-- 🔹 **Virtual Try-On Fashion App with GANs**  
-  → Personalized AI-based garment try-on using DensePose, GANs & Image Warping.
-
-- 🔹 **Number Plate Detection using YOLOv5 + EasyOCR**  
-  → Real-time vehicle license plate detection and reading using OpenCV pipeline.
-
-📁 [See all my projects here →](https://github.com/rushikesh092002?tab=repositories)
+#### 🧥 Virtual Fashion Try-On using GANs
+> Final year project using GANs and pose estimation to create a personalized virtual try-on experience with garment length adjustment.  
 
 ---
 
-#### 📈 GitHub Stats
+### 📈 GitHub Stats
 
-![Rushikesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=rushikesh092002&show_icons=true&theme=radical&count_private=true)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=rushikesh092002&show_icons=true&theme=tokyonight" alt="Rushikesh's GitHub stats"/>
+</p>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rushikesh092002&layout=compact&theme=radical)
-
----
-
-#### 📫 Connect With Me
-
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rushikesh-gaikhe/)
-[![Gmail](https://img.shields.io/badge/-rushikeshgaikhe09@gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:rushikeshgaikhe09@gmail.com)
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/rushikesh092002)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rushikesh092002&layout=compact&theme=tokyonight" alt="Rushikesh's most used languages"/>
+</p>
 
 ---
 
-> ⚡ *“Pushing the limits of what's possible with code, data, and determination.”*
+### 🏆 GitHub Trophy Cabinet
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=rushikesh092002&theme=tokyonight&no-frame=true&no-bg=true&margin-w=5&column=7" />
+</p>
+
+---
+
+### 📊 GitHub Contributions Summary (Last Year)
+
+- 💬 Total Pull Requests: ![PRs](https://img.shields.io/github/issues-pr/rushikesh092002?style=flat-square)
+- 🐛 Total Issues: ![Issues](https://img.shields.io/github/issues/rushikesh092002?style=flat-square)
+- ⭐ Total Stars Earned: ![Stars](https://img.shields.io/github/stars/rushikesh092002?style=flat-square)
+- 💡 Contributions in Last Year:  
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rushikesh092002&theme=tokyo-night" alt="GitHub Activity Graph" />
+
+---
+
+### 🤝 Let's Connect!
+
+- 📫 Email: [rushikeshgaikhe09@gmail.com](mailto:rushikeshgaikhe09@gmail.com)  
+- 🔗 LinkedIn: [linkedin.com/in/rushikesh-gaikhe](https://www.linkedin.com/in/rushikesh-gaikhe/)
+
+---
+
+⭐ *Thank you for visiting my profile! Let's grow together.* 🚀
